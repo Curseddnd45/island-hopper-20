@@ -2,7 +2,9 @@
     "name": "Island Hopper 2.0",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
     },
     "files": [
         "main.blocks",
